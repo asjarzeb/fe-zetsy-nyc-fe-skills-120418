@@ -7,9 +7,6 @@
 font-family: 'Baskerville.ttc';
 }
 
-div {
-  display: block;
-}
 
 body {
 	background: #F3EBE9;
@@ -22,6 +19,10 @@ body {
 	margin: 0 auto;
 	background: #fff;
 	padding: 0 45px 20px;
+}
+
+div {
+  display: block;
 }
 
 /* Write all remaining styles here */
